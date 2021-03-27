@@ -1,6 +1,4 @@
-# 2020-COMP3016-Coursework2
-
-[View tech pitch](https://youtu.be/-pBKL0F48SU)
+# Musical Enviroment
 
 ## Project
 
@@ -16,6 +14,7 @@ An audio visualizer that reads in .csv files and outputs points (3D coordinates)
 
 ## Demonstation Video
 
+[View tech pitch](https://youtu.be/-pBKL0F48SU)
 
 ## How to make the executable
 If you are viewing this project on GitHub you will not find a build of the project. If you wish to obtain an exe you will have to follow these steps. 
